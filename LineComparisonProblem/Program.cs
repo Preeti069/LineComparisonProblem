@@ -10,8 +10,7 @@ namespace LineComparisonProblem
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Welcome To Line Comparison Problem");
+            Console.WriteLine(" Welcome To Line Comparison Problem ");
             Console.ReadLine();
         }
     }
